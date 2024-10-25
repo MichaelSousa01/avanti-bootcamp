@@ -20,7 +20,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
 
 ## Instruções
 
-### Requisitos
+<!--### Requisitos
 
 Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
  - git
@@ -28,7 +28,7 @@ Para utilizar este template, você precisará de um ambiente com os seguintes so
  - Poetry `1.1.13` ou superior
 
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
-
+-->
 ### Iniciando um novo projeto
 
 Para iniciar um novo projeto você precisa ter instalado na sua máquina as aplicações citadas na seção anterior, depois disso basta:

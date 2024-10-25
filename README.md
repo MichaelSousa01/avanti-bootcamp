@@ -1,4 +1,4 @@
-# <Título do projeto>
+# Predição de espécies de pinguins
 
 Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
@@ -20,7 +20,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
 
 ## Instruções
 
-### Requisitos
+<!--### Requisitos
 
 Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
  - git
@@ -28,7 +28,7 @@ Para utilizar este template, você precisará de um ambiente com os seguintes so
  - Poetry `1.1.13` ou superior
 
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
-
+-->
 ### Iniciando um novo projeto
 
 Para iniciar um novo projeto você precisa ter instalado na sua máquina as aplicações citadas na seção anterior, depois disso basta:
@@ -40,7 +40,7 @@ Para iniciar um novo projeto você precisa ter instalado na sua máquina as apli
 
 Pronto, acaba de criar um repositório a partir deste modelo. Para mais informações sobre o uso de templates, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-<!--
+
 ### Contribuindo com um repositório já criado
 
 Depois de criar o repositório, para começar a modificá-lo e/ou contribuir com repositórios já criados,  você precisa cloná-lo. Para isso, siga os seguintes passos:
@@ -66,7 +66,7 @@ cd REPOSITORIO
 ```
 
 Estando na pasta do repositório, basta instalar as dependências do projeto utilizando o comando:
--->
+
 ```
 poetry install
 ```

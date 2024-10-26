@@ -9,7 +9,7 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
 ---
 
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
-
+<!--
 ## Funcionalidades
 
 Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
@@ -20,7 +20,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
 
 ## Instruções
 
-<!--### Requisitos
+### Requisitos
 
 Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
  - git
@@ -28,7 +28,7 @@ Para utilizar este template, você precisará de um ambiente com os seguintes so
  - Poetry `1.1.13` ou superior
 
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
--->
+
 ### Iniciando um novo projeto
 
 Para iniciar um novo projeto você precisa ter instalado na sua máquina as aplicações citadas na seção anterior, depois disso basta:
@@ -108,3 +108,4 @@ Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
 ```
+-->
